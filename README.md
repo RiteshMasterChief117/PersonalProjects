@@ -1,2 +1,2 @@
 # PersonalProjects
-personal embeded projects
+ embeded 
